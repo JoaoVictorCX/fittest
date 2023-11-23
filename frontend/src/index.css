@@ -16,6 +16,11 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+h1 {
+  font-size: 2em;
+  font-weight: 500;
+}
+
 
 /***
     The new CSS reset - version 1.11.2 (last updated 15.11.2023)
