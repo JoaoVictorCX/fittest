@@ -1,12 +1,13 @@
 import Header from "./components/header"
 import styles from "./styles.module.css"
+import NewEventButton from "./components/new-event-button"
 
 function EventListPage() {
     return (
         <div className={styles.wrapper}>
             <Header />
             <main>
-                <div className="new-event">BOTAO</div>
+                <NewEventButton />
                 <div className="event-list">
                     <ul>
                         <li>ITEM</li>
