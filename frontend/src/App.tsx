@@ -1,6 +1,9 @@
+import EventListPage from "./pages/event-list-page"
 
 function App() {
-  return 'oi'
+  return (
+    <EventListPage />    
+  )
 }
 
 export default App
